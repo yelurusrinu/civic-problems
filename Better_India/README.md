@@ -1,6 +1,6 @@
 # Riktam-Hackathon
 
-> Developer: Varun Palla
+> Developer: Yeluru Sreenivasulu
 
 > --------------------------------------------------------------------------------
 
